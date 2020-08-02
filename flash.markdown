@@ -1,6 +1,6 @@
 ---
-layout: "weekly"
-title: "Weekly"
+layout: "exerpts"
+title: "FLASH FICTION"
 ---
 
 <ul>
