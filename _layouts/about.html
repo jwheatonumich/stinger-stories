@@ -1,0 +1,45 @@
+{% include css.html %}
+
+<style>
+#body-div{
+    padding-top:0;
+}
+
+#body-text-div {
+    text-align:center;
+    width: 700px;
+    border: 1px solid black;
+    text-align: left;
+    padding: 20px;
+}
+
+#logo-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+span{
+    font-size: 45;
+    font-weight: bold;
+}
+</style>
+
+<body>
+
+    {% include header.html %}
+
+    <div id="body-div">
+        <div id="logo-div">
+            <span>ABOUT</span>
+            <img id="logo" src="/assets/images/logo.png" alt="Bee Logo">
+        </div>
+
+        <div id="body-text-div">
+            <p id="description"> {{ content }}</p>
+        </div>
+    </div>
+
+    {% include footer.html %}
+
+</body>
