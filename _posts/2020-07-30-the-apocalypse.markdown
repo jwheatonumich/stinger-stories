@@ -5,6 +5,7 @@ author: "James Heaton"
 date:   2020-07-25 20:06:54 -0500
 excerpt_separator: <!--more-->
 permalink: /:title
+categories: apocalypse drabble
 ---
 
 Four horsemen waited at the top of a hill.
