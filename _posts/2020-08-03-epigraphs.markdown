@@ -10,6 +10,7 @@ categories:
 
 “Before embarking on a journey of revenge, dig two graves.”
 <!--more-->
+
 “There is no avoiding war; it can only be postponed to the advantage of others.”
 
 “What is defeat? Nothing but education, nothing but the first step to something better.”
