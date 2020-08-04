@@ -37,18 +37,21 @@ span{
         <div id="body-text-div">
 
             <p id="description"> {{ content }}</p>
+            <p>List of stories:</p>
+            <ul>
+                {% for post in site.posts %}
+                  <div class="story-summary">
+                        {% if post.author == page.author %}
+                            <a class = "post-title" href="{{ post.url }}">{{ post.title }}</a>
+                        {% endif %}
+                  </div>
+                {% endfor %}
+              </ul>
+
+        </div>
         </div>
 
-        <ul>
-            {% for post in site.posts %}
-              <div class="story-summary">
-                    {% if post.author == page.author %}
-                        <a class = "post-title" href="{{ post.url }}">{{ post.title }}</a>
-                    {% endif %}
-              </div>
-            {% endfor %}
-          </ul>
-    </div>
+
 
     {% include footer.html %}
 
