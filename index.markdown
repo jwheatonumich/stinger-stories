@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: index
+name: index
 ---
 
 <i>Stinger Stories</i> is a digital literary magazine dedicated to flash fiction in the science fiction and fantasy genres.
