@@ -1,27 +1,27 @@
 ---
 layout: post
-title: "Epigraphs"
-author: "Bevin Torres"
-date:   2020-08-03 20:06:54 -0500
+title: "Letter of Complaint"
+author: "Karen Kiers"
+date:   2020-08-04s 20:06:54 -0500
 excerpt_separator: <!--more-->
 permalink: /:title
 categories: 
 ---
 
-“Before embarking on a journey of revenge, dig two graves.”
+Dear Malifica,
+
+I am writing to let you know that your dungeon is in very poor condition. This comes from someone with a LOT of experience in dungeons.
 <!--more-->
 
-“There is no avoiding war; it can only be postponed to the advantage of others.”
+First, cleanliness. While I realize that mold is sometimes unavoidable in damp and enclosed spaces, would an occasional sanitization be out of the question?
 
-“What is defeat? Nothing but education, nothing but the first step to something better.”
+Also, it is disappointing you have been unable to find better quality wardens. The short goblin guarding my cell barely speaks English. Is he (or she?) even authorized to work in this country?
 
-“All lessons worth learning are drenched in blood.”
+And finally, I cannot recommend your organization until you remedy the food situation. There was no vegetarian option, and the rat stew was cold by the time I was served.
 
-“Betrayal is unforgivable”
+Thank you in advance for your prompt attention,
 
-“One who deceives will always find those who allow themselves to be deceived.”
-
-“The patient knife always strikes true.”'
+Karen the Brave
 
 
 
