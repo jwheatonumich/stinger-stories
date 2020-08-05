@@ -23,6 +23,6 @@ Thank you in advance for your prompt attention,
 
 Karen the Brave
 
-P.S. - I do have to compliment you on the decor. Unfinished wood is so in right now!
+P.S. I do have to compliment you on the decor. Unfinished wood is so in right now!
 
 
