@@ -10,6 +10,7 @@ title: "FLASH FICTION"
       <p><i>By {{ post.author }}</i></p>
       {{ post.excerpt }}
       <a class = "post-link" href="{{ post.url }}">Read more...</a>
+      <br>
     </div>
   {% endfor %}
 </ul>
