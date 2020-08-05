@@ -2,7 +2,7 @@
 layout: post
 title: "Letter of Complaint"
 author: "Karen Kiers"
-date:   2020-08-04s 20:06:54 -0500
+date:   2020-08-04 20:06:54 -0500
 excerpt_separator: <!--more-->
 permalink: /:title
 categories: 
