@@ -9,7 +9,7 @@ title: "FLASH FICTION"
       <a class = "post-title" href="{{ post.url }}">{{ post.title }}</a>
       <p><i>By {{ post.author }}</i></p>
       {{ post.excerpt }}
-      <a class = "post-link" href="{{ post.url }}">Read more</a>
+      <a class = "post-link" href="{{ post.url }}">Read more...</a>
     </div>
   {% endfor %}
 </ul>
