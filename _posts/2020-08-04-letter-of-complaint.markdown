@@ -10,7 +10,7 @@ categories:
 
 Dear Malifica,
 
-I am writing to regarding the condition of your castle's dungeon. I can honestly say it is one of the three worst dungeons I have ever seen. This comes from someone with a LOT of experience in dungeons.
+I am writing to you regarding the condition of your castle's dungeon. I can honestly say it is one of the three worst dungeons I have ever seen. This comes from someone with a LOT of experience in dungeons.
 <!--more-->
 
 First, there is a serious hygiene problem. While I realize that mold is sometimes unavoidable in damp and enclosed spaces, would an occasional sanitization be out of the question?
