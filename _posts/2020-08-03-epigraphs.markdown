@@ -21,7 +21,7 @@ categories:
 
 “One who deceives will always find those who allow themselves to be deceived.”
 
-“The patient knife always strikes true.”'
+“The patient knife always strikes true.”
 
 
 
