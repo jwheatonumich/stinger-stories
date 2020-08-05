@@ -37,7 +37,7 @@ span{
         <div id="body-text-div">
 
             <p id="description"> {{ content }}</p>
-            <h2>Posts</h2>
+            <p><b>Posts</b></p>
             <ul>
               {% assign filtered_posts = site.posts | where: 'author', page.name %}
               {% for post in filtered_posts %}
