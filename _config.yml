@@ -29,7 +29,9 @@ url: "stingerstories.com" # the base hostname & protocol for your site, e.g. htt
 twitter_username: jekyllrb
 github_username:  jekyll
 
-include: _authors
+collections:
+  authors:
+    output: true
 # Build settings
 #theme: jekyll-theme-hamilton
 
