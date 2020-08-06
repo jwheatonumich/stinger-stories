@@ -37,6 +37,9 @@ collections:
 
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+paginate: 4
 
 
 
