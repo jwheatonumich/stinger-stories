@@ -20,7 +20,7 @@ Combine hero with traps, dragon, and minions until hero is puffed and lightly br
 
 Monologue for 7 minutes, up to 10 for a crispy hero
 
-Serve immediately
+Leave to cool
 
 
 
