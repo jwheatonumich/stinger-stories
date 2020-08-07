@@ -3,7 +3,7 @@ layout: "submit"
 title: "submit"
 ---
 
-<i>Stinger Stories</i> focuses on small, promising bits of prose. We most commonly publish work in the science fiction or fantasy genres. We will consider any work that is well written and unusual/experimental in nature.
+<i>Stinger Stories</i> focuses on small, promising bits of prose. Most of our published work is in the science fiction or fantasy genres. We will consider any work that is well written and unusual/experimental in nature.
 
 <b>Submission Details:</b>
 
