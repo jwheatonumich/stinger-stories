@@ -6,6 +6,6 @@ title: About
 
 <i>Stinger Stories</i> is a weekly magazine of and about short, unusual bits of fiction.
 
-Our magazine focuses stories with 300 or fewer words. We sometimes make an exception for longer works or poetry that are well written and thematically relevant.
+Our magazine focuses stories with 300 or fewer words. We sometimes make an exception for longer works or poems that are well written and thematically relevant.
 
-We publish works that are out of the ordinary, either in topic or in form. This includes science fiction, fantasy, horror, slipstream, and all other flavors of fantastika. We also publish experimantal works of any genre.
+We publish works that are out of the ordinary, either in topic or in form. This includes science fiction, fantasy, horror, and all other flavors of the unreal. We also publish experimental works of any genre.
