@@ -4,7 +4,7 @@
 
 layout: home
 name: home
-permalink: "/flash-fiction"
+permalink: "/index"
 ---
 
 <i>Stinger Stories</i> is a digital literary magazine dedicated to flash fiction in the science fiction and fantasy genres.
