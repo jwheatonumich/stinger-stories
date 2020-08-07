@@ -21,7 +21,7 @@ Up to three pieces by an author at a time. No simultaneous submissions.
 
 <b>Publication Details:</b>
 
-Unfortunately, weare not a paying market.
+Unfortunately, we are not a paying market.
 
 Pieces are published on Saturdays.
 
