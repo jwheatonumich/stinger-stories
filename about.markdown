@@ -4,7 +4,7 @@ title: About
 
 ---
 
-<i>Stinger Stories</i> is a weekly magazine of and about short, unusual bits of fiction.
+<i>Stinger Stories</i> is a weekly magazine of and about short and unusual bits of fiction.
 
 Our magazine focuses stories with 300 or fewer words. We sometimes make an exception for longer works or poems that are well written and thematically relevant.
 
