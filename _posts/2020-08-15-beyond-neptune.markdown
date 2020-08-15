@@ -8,9 +8,9 @@ permalink: /:title
 categories: drabble, science fiction
 ---
 
-ATTENTION EARTH VESSEL<!--more-->
+ATTENTION EARTH VESSEL
 
-Note that you have exited your star’s allocated flight zone. This notification serves as your species’ first and only warning. Please return to within 30 astronomical units of your home star.
+Note that you have exited your star’s allocated flight zone. This notification serves as your species’ first and only warning.<!--more--> Please return to within 30 astronomical units of your home star.
 
 Per intergalactic law 53.1.2.c, your system has been designated as a primitive species reserve. This designation outlaws any interaction between residents and the greater intergalactic community.
 
