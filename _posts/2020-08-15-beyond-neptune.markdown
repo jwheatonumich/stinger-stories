@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beyond Neptune"
-author: "Bevin Torres"
+author: "Raymond Zhuo"
 date:   2020-08-15 01:06:54 -0500
 excerpt_separator: <!--more-->
 permalink: /:title
