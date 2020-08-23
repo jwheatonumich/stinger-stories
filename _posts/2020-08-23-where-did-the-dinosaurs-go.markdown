@@ -12,10 +12,8 @@ Clouds rolled in.
 Rex sat at the base of the boat
     Sulking.<!--more-->
 
-“Sorry
-    But there’s just no room!
-And after The Incident
-    With the other dinosaurs..."
+“Sorry, but there’s just no room!
+And after The Incident with the other dinosaurs..."
 
 The first drops of rain fell
 Noah retracted the gangway.
