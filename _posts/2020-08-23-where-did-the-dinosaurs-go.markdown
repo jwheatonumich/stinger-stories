@@ -22,11 +22,9 @@ And after the incident with the other dinosaurs..."
 
 The first drops of rain fell
 
-Noah retracted the gangway.
-
 Rex did his best sad puppy impression
 
-Noah ignored him 
+Noah retracted the gangway.
 
 leading the last of the animals 
 
