@@ -12,7 +12,7 @@ Clouds rolled in
 
 Rex sat at the base of the boat
 
-Sulking<!--more-->
+sulking<!--more-->
 
 
 “Sorry, but there’s just no room
