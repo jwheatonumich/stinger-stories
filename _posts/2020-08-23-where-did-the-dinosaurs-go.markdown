@@ -17,7 +17,7 @@ sulking<!--more-->
 
 “Sorry, but there’s just no room
 
-And after the incident with the other dinosaurs..."
+and after the incident with the other dinosaurs..."
 
 
 The first drops of rain fell
