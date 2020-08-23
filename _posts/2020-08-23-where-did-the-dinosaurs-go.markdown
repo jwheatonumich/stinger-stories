@@ -8,14 +8,14 @@ permalink: /:title
 categories: poetry fractured-fairytale
 ---
 
-Clouds rolled in.
+Clouds rolled in
 
 Rex sat at the base of the boat
 
-Sulking.<!--more-->
+Sulking<!--more-->
 
 
-“Sorry, but there’s just no room!
+“Sorry, but there’s just no room
 
 And after the incident with the other dinosaurs..."
 
@@ -24,10 +24,10 @@ The first drops of rain fell
 
 Rex did his best sad puppy impression
 
-Noah retracted the gangway.
+Noah retracted the gangway
 
 leading the last of the animals 
 
 two-by-two 
 
-into the Ark.
+into the Ark
