@@ -12,7 +12,7 @@ Clouds rolled in.
 
 Rex sat at the base of the boat
 
-    Sulking.<!--more-->
+   Sulking.<!--more-->
 
 
 “Sorry, but there’s just no room!
@@ -26,10 +26,10 @@ Noah retracted the gangway.
 
 Rex did his best sad puppy impression
 
-    Noah ignored him 
+   Noah ignored him 
 
-    leading the last of the animals 
+   leading the last of the animals 
 
-    two-by-two 
-    
-    into the Ark.
+   two-by-two 
+
+   into the Ark.
