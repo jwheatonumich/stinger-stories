@@ -12,12 +12,12 @@ Clouds rolled in.
 
 Rex sat at the base of the boat
 
-   Sulking.<!--more-->
+Sulking.<!--more-->
 
 
 “Sorry, but there’s just no room!
 
-And after The Incident with the other dinosaurs..."
+And after the incident with the other dinosaurs..."
 
 
 The first drops of rain fell
@@ -26,10 +26,10 @@ Noah retracted the gangway.
 
 Rex did his best sad puppy impression
 
-   Noah ignored him 
+Noah ignored him 
 
-   leading the last of the animals 
+leading the last of the animals 
 
-   two-by-two 
+two-by-two 
 
-   into the Ark.
+into the Ark.
