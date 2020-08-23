@@ -9,16 +9,27 @@ categories: poetry fractured-fairytale
 ---
 
 Clouds rolled in.
+
 Rex sat at the base of the boat
+
     Sulking.<!--more-->
 
+
 “Sorry, but there’s just no room!
+
 And after The Incident with the other dinosaurs..."
 
+
 The first drops of rain fell
+
 Noah retracted the gangway.
+
 Rex did his best sad puppy impression
+
     Noah ignored him 
+
     leading the last of the animals 
+
     two-by-two 
+    
     into the Ark.
