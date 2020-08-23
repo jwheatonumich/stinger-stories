@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Where Did the Dinosaurs Go?"
+author: "Raymond Zhuo"
+date:   2020-23-15 01:06:54 -0500
+excerpt_separator: <!--more-->
+permalink: /:title
+categories: poetry fractured-fairytale
+---
+
+Clouds rolled in.
+Rex sat at the base of the boat
+    Sulking.<!--more-->
+
+“Sorry
+    But there’s just no room!
+And after The Incident
+    With the other dinosaurs..."
+
+The first drops of rain fell
+Noah retracted the gangway.
+Rex did his best sad puppy impression
+    Noah ignored him 
+    leading the last of the animals 
+    two-by-two 
+    into the Ark.
