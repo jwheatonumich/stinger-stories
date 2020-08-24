@@ -38,6 +38,7 @@ collections:
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-sitemap
 
 paginate: 4
 paginate_path: "/flash/page:num/"
