@@ -19,6 +19,8 @@ Make sure you attach your story as a .doc or .docx.
 
 Up to three pieces by an author at a time. We support simultaneous submissions, but please let us know if your piece is accepted elsewhere immediately. 
 
+We accept previously published works, but please let us know where it has been published in your email.
+
 <b>Publication Details:</b>
 
 Unfortunately, we are not a paying market.
