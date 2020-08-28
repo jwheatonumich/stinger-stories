@@ -17,7 +17,7 @@ Include a short bio in third person.
 
 Make sure you attach your story as a .doc or .docx.
 
-Up to three pieces by an author at a time. No simultaneous submissions.
+Up to three pieces by an author at a time. We support simultaneous submissions, but please let us know if your piece is accepted elsewhere immediately. 
 
 <b>Publication Details:</b>
 
@@ -29,4 +29,4 @@ When our editors choose a story for publication, we will notify the author and p
 
 After publication, the material cannot be edited without express permission of an Editor.
 
-We hold non-exclusive rights to publication, but please do not publish the piece elsewhere for three months.
+We hold non-exclusive rights to publication.
