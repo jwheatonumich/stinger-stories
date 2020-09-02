@@ -17,9 +17,7 @@ Include a short bio in third person.
 
 Make sure you attach your story as a .doc or .docx.
 
-Up to three pieces by an author at a time. We support simultaneous submissions, but please let us know if your piece is accepted elsewhere immediately. 
-
-We accept previously published works, but please let us know where it has been published in your email.
+We support simultaneous submissions, but please let us know if your piece is accepted elsewhere immediately.
 
 <b>Publication Details:</b>
 
@@ -29,6 +27,6 @@ Pieces are published on Saturdays.
 
 When our editors choose a story for publication, we will notify the author and put the piece in our publishing queue.
 
-After publication, the material cannot be edited without express permission of an Editor.
+<b>Do I retain my rights?</b>
 
-We hold non-exclusive rights to publication.
+You retain all rights to your work. However, we kindly ask that you not publish your story online—including your own website. This is not a “rights” issue, Google does not like duplicate content.
