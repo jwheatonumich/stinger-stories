@@ -11,17 +11,13 @@ Send your single spaced submission to <a href="mailto:submit@stingerstories.com"
 
 Submissions should be 300 words or less, not including title.
 
-Your email subject line should be: “STINGER STORIES”
-
 Include a short bio in third person.
 
-Make sure you attach your story as a .doc or .docx.
-
-We support simultaneous submissions, but please let us know if your piece is accepted elsewhere immediately.
+We support simultaneous submissions, but please let us know if your piece is accepted elsewhere.
 
 <b>Publication Details:</b>
 
-Unfortunately, we are not a paying market.
+We are not a paying market.
 
 Pieces are published on Saturdays.
 
