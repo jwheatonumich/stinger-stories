@@ -4,8 +4,8 @@ title: "FLASH FICTION"
 ---
 
 <ul>
-  {% for post in paginator.posts %}
-    {% if post.categories contains 'story' %}
+  {% if post.categories contains 'story' %}
+    {% for post in paginator.posts %}
       <div class="story-summary">
         <a class = "post-title" href="{{ post.url }}">{{ post.title }}</a>
         <p><i>By {{ post.author }}</i></p>
@@ -13,8 +13,8 @@ title: "FLASH FICTION"
         <a class = "post-link" href="{{ post.url }}">Read more...</a>
         <br>
       </div>
-    {% endif %}
-  {% endfor %}
+    {% endfor %}
+  {% endif %}
 </ul>
 
 <!-- Pagination links -->
