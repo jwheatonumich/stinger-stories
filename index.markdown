@@ -7,7 +7,7 @@ name: index
 
 <ul>
   {% for post in paginator.posts %}
-    {% if post.categories contains 'story' %}
+    {% if post.categories contains 'blog' %}
       <div class="story-summary">
         <a class = "post-title" href="{{ post.url }}">{{ post.title }}</a>
         <p><i>By {{ post.author }}</i></p>
