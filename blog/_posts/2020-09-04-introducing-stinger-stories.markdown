@@ -8,7 +8,7 @@ permalink: /:title
 category:
 ---
 
-On August 8th, 2020, I launched a literary magazine named Stinger Stories.
+Earlier this year our team launched a literary magazine named Stinger Stories.
 
 Friends, family, and strangers alike asked — Why?
 <!--more-->
