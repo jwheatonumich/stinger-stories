@@ -5,7 +5,7 @@ author: "Raymond Zhuo"
 date:   2020-08-15 01:06:54 -0500
 excerpt_separator: <!--more-->
 permalink: /:title
-categories: drabble, science fiction
+category: post
 ---
 
 ATTENTION EARTH VESSEL

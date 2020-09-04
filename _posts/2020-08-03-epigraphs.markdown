@@ -5,7 +5,7 @@ author: "Bevin Torres"
 date:   2020-08-03 20:06:54 -0500
 excerpt_separator: <!--more-->
 permalink: /:title
-categories: 
+category: post
 ---
 
 “Before embarking on a journey of revenge, dig two graves.”

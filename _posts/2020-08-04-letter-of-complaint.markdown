@@ -5,7 +5,7 @@ author: "Karen Kiers"
 date:   2020-08-04 20:06:54 -0500
 excerpt_separator: <!--more-->
 permalink: /:title
-categories: 
+category: post
 ---
 
 Dear Malifica,

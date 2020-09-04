@@ -5,6 +5,7 @@ author: "James Heaton"
 date:   2020-07-18 20:06:54 -0500
 excerpt_separator: <!--more-->
 permalink: /:title
+category: post
 ---
 Isak pushed his mug to the end of the table hoping his waitress would notice that it was empty. He tried to focus on the packet in front of him as caffeine combatted exhaustion. A red sign flashed “Open 24 Hours”, intermittently illuminating the dark street outside his window.<!--more-->
 

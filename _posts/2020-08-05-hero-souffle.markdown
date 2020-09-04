@@ -5,7 +5,7 @@ author: "Karen Kiers"
 date:   2020-08-05 01:06:54 -0500
 excerpt_separator: <!--more-->
 permalink: /:title
-categories: 
+category: post
 ---
 
 Place your princess (or prince) under a sleeping spell

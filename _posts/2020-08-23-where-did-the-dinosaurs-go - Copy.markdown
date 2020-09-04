@@ -5,7 +5,7 @@ author: "Raymond Zhuo"
 date:   2020-08-23 01:06:54 -0500
 excerpt_separator: <!--more-->
 permalink: /:title
-categories: poetry fractured-fairytale
+category: post
 ---
 
 Clouds rolled in
