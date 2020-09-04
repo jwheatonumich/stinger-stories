@@ -5,7 +5,7 @@ title: "FLASH FICTION"
 
 <ul>
   {% for post in paginator.posts %}
-    {% if post.categories contains 'post' %}
+    {% if post.categories contains 'story' %}
       <div class="story-summary">
         <a class = "post-title" href="{{ post.url }}">{{ post.title }}</a>
         <p><i>By {{ post.author }}</i></p>
