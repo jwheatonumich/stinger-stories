@@ -4,7 +4,7 @@ title: "FLASH FICTION"
 ---
 
 <ul>
-    {% for post in paginator.posts.category.story %}
+    {% for post in paginator.posts %}
       <div class="story-summary">
         <a class = "post-title" href="{{ post.url }}">{{ post.title }}</a>
         <p><i>By {{ post.author }}</i></p>
