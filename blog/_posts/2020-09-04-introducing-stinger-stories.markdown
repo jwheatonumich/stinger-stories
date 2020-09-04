@@ -9,14 +9,24 @@ category:
 ---
 
 On August 8th, 2020, I launched a literary magazine named Stinger Stories.
+
 Friends, family, and strangers alike asked — Why?
 <!--more-->
+
 Fair question!
-Why does the world need yet another literary magazine?
+
+<b>Why does the world need yet another literary magazine?</b>
+
 Mainstream publications are for-profit companies. Their sole purpose is to make money. They need to publish literature that their paying readers enjoy, but they won’t take risks publishing something that their editors think is great but the financial analysts think could lose money.
-What about small publishers?
+
+<b>What about small publishers?</b>
+
 Small publishers may be willing to look at writing that is outside of the mainstream, but they often have as much of a financial focus as mainstream publishers. A small publisher is often interested in one question — how many anthologies will this story help sell? Or for virtual publications, how many visitors will this story bring to our advertisement filled website?
-But there are hundreds, maybe thousands of non-profit magazines, right? Why does the world need another one?
+
+<b>But there are hundreds, maybe thousands of non-profit magazines, right? Why does the world need another one?</b>
+
 There are many, many non-profit magazines in the world. And most of them are staffed by a small team of editors who spend numerous hours every week sifting through submissions to find one or two stories that will be the perfect fit for their magazine. And what they produce is wonderful. This collaboration between editor and writer without financial motivation is art in its purest form. But there are many authors whose very worthy writing either does not fit into the narrow scope of one of these non-profit magazines, or whose work will sit in a publishing queue for months or years because there is already such a large backlog.
-What will Stinger Stories do that existing publications do not?
+
+<b>What will Stinger Stories do that existing publications do not?</b>
+
 A writing professor once told me, “Books are written for customers. Short stories are written for the love of writing.” If that is true,flash fiction must be the truest form of literary love. Stinger Stories will publish flash fiction with fewer than 300 words that is science fiction, fantasy, horror, or any other flavor of the unreal. While these stories are not going to interest for-profit magazines, I believe they are some of the simplest and most true expressions of an author’s muse.
