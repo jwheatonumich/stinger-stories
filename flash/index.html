@@ -1,12 +1,12 @@
 ---
 layout: "exerpts"
-title: "FLASH FICTION test5"
+title: "FLASH FICTION test6"
 paginate:
   category: 'story'
 ---
 
 <ul>
-    {% for post in paginator.posts %}
+    {% for post in paginator.category %}
       <div class="story-summary">
         <a class = "post-title" href="{{ post.url }}">{{ post.title }}</a>
         <p><i>By {{ post.author }}</i></p>
