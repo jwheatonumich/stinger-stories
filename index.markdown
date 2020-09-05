@@ -8,7 +8,7 @@ paginate:
 <i>Stinger Stories</i> is a digital literary magazine dedicated to short works fantastic and unusual fiction.
 
 <ul>
-    {% for post in paginator.posts %}
+    {% for post in paginator.blog %}
       <div class="story-summary">
         <a class = "post-title" href="{{ post.url }}">{{ post.title }}</a>
         <p><i>By {{ post.author }}</i></p>
@@ -38,4 +38,4 @@ paginate:
   {% endif %}
 </div>
 
-<p>test4</p>
+<p>test5</p>
