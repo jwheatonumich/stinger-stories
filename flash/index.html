@@ -1,4 +1,302 @@
-<ul>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+
+    a{
+        color:rgb(244, 148, 28);
+    }
+
+    a:visited{
+        color:rgb(244, 148, 28);
+    }
+
+    #body-div{
+        display:flex;
+        flex-direction:column;
+        align-items: center;
+        padding-top:15vh;
+        padding-bottom:15vh;
+    }
+
+    footer{
+        background:rgb(44, 44, 44);
+        color:rgb(172, 172, 172);
+        min-height: 15vh;
+        
+    }
+
+    #footer-div{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        width:400px;
+        font-size: 18px;
+    }
+
+    #header {
+        background:rgb(44, 44, 44);
+    }
+
+    .nav-link {
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .nav-link:link, .nav-link:visited 
+    {
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        color:rgb(172, 172, 172);
+    }
+
+    .nav-link:hover, .nav-link:active 
+    {
+        color:rgb(244, 148, 28);
+    }
+
+    #logo{
+        width:100px;
+        height:100px;
+        padding:10px;
+        display:inline-block;
+    }
+
+    #logo-text {
+        height: 150px;
+        padding:10px;
+        display:inline-block;
+    }
+
+    #nav-bar{
+        display:flex;
+        width:100%;
+        justify-content: center;
+    }
+
+    nav ul {
+        list-style-type:none; /*Remove bullets from the nav list*/
+    }
+
+    /*display navigation list items in one line rather than on separate lines*/
+    nav li {
+        display: inline;
+        margin-right: 60px;
+        padding: 10px 5px 10px 5px;
+    }
+
+    .post-link{
+        float:right;
+    }
+
+    /*Overwrites some code that Jekyll inserts that makes lists padded on the left.*/
+    ul {
+    padding-inline-start: 0;
+    }
+
+    @media (max-width: 850px){
+        #nav-bar{
+            display:flex;
+            width:auto;
+            flex-direction:column;
+            height: auto;
+            justify-content:space-around;
+        }
+
+        nav li {
+            margin-right: 0;
+            padding: 0 0 0 0;
+        }
+
+        #footer-div{
+            padding-top: 5px;
+            padding-bottom: 5px;
+            padding-left: 5px;
+            padding-left: 5px;
+            width:auto;
+            font-size: 18px;
+        }
+
+        li a{
+            padding: 0;
+            width:100%
+        }
+
+        body{
+            width: 100%;
+            height: 100%;
+            margin: 0px;
+            padding: 0px;
+            overflow-x: hidden;
+        }
+
+        #logo{
+            width:100px;
+            height:100px;
+            padding:10px;
+            display:inline-block;
+        }
+
+        #logo-text {
+            height: 150px;
+            padding:10px;
+            display:inline-block;
+        }
+
+        #body-div{
+        padding-left:5px;
+        padding-right:5px;
+    }
+    }
+
+</style>
+
+<style>
+
+.post-title, .post-title:visited{
+        font-size: 20px;
+        font-weight: bold;
+        color:black;
+        text-decoration: none;
+    }
+
+#body-div{
+    padding-top:0;
+}
+
+#body-text-div {
+    text-align:center;
+    max-width: 700px;
+    text-align: left;
+    padding: 20px;
+}
+
+#logo-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.story-summary{
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid black;
+}
+
+h2{
+    font-size: 45;
+    font-weight: bold;
+}
+
+@media (max-width: 850px){
+
+.story-summary{
+    padding: 5px;
+    margin: 5px;
+}
+
+h2{
+    font-size: 28;
+}
+
+#body-text-div {
+    max-width: auto;
+    padding: 5px, 5px, 5px, 5px ;
+}
+
+.story-summary{
+    padding: 5px, 5px, 5px, 5px ;
+    margin: 5px, 5px, 5px, 5px ;
+    border: 1px solid black;
+}
+
+}
+
+</style>
+
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-175836006-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-175836006-1');
+</script>
+
+</head>
+
+<body>
+
+    <header id="header">
+    <nav id="nav-bar">
+        <ul>
+            <li><a class="nav-link" href="https://stingerstories.com/index.html" class=header-links>HOME</a></li>
+            <li><a class="nav-link" href="https://stingerstories.com/about.html" class=header-links>ABOUT</a></li>
+            <li><a class="nav-link" href="https://stingerstories.com/flash/index.html" class=header-links>FLASH FICTION</a></li>
+            <li><a class="nav-link" href="https://stingerstories.com/blog/index.html" class=header-links>BLOG</a></li>
+            <li><a class="nav-link" href="https://stingerstories.com/submit.html" class=header-links>SUBMIT</a></li>
+        </ul>
+    </nav>
+</header>
+
+    <title>Stinger Stories</title> <!--Controls what shows up in the webpage tab. site.title is in the config file-->
+
+    <div id="body-div">
+        <div id="logo-div">
+            <h2> FLASH FICTION </h2>
+            <img id="logo" src="https://stingerstories.com/assets/images/Logo.png" alt="Stinger Stories Logo">
+        </div>
+
+        <div id="body-text-div">
+        <ul>
+    
+      <div class="story-summary">
+        <a class = "post-title" href="/wolves-of-the-solstice">Wolves of the Solstice</a>
+        <p><i>By Lizzie Newell</i></p>
+        <p>When Woman and Man lived on Earth, before Noah loaded his ark with life and carried it across the galaxy, Man declared himself supreme and forced his children to bow down to the idol of Fatherhood.</p>
+
+
+        <a class = "post-link" href="/wolves-of-the-solstice">Read more...</a>
+        <br>
+      </div>
+    
+      <div class="story-summary">
+        <a class = "post-title" href="/re-pete">Re: Pete</a>
+        <p><i>By James Heaton</i></p>
+        <p>Pete woke-up to the pain of a hangover. He never drank anymore, but last night…</p>
+
+
+        <a class = "post-link" href="/re-pete">Read more...</a>
+        <br>
+      </div>
+    
+      <div class="story-summary">
+        <a class = "post-title" href="/where-did-the-dinosaurs-go">Where Did the Dinosaurs Go?</a>
+        <p><i>By Raymond Zhuo</i></p>
+        <p>Clouds rolled in</p>
+
+<p>Rex sat at the base of the boat</p>
+
+<p>sulking</p>
+
+
+        <a class = "post-link" href="/where-did-the-dinosaurs-go">Read more...</a>
+        <br>
+      </div>
+    
+      <div class="story-summary">
+        <a class = "post-title" href="/the-pact">The Pact</a>
+        <p><i>By Karen Kiers</i></p>
+        <p>“Please reconsider, it’s too dangerous!” John begged.</p>
+
+<p>“It’s the only way!” Sarah cried, lighting the ceremonial candles.</p>
+
+
+        <a class = "post-link" href="/the-pact">Read more...</a>
+        <br>
+      </div>
     
 </ul>
 
@@ -8,9 +306,18 @@
     <span class="previous">Previous</span>
   
   <span class="page_number ">
-     of 
+    1 of 3
   </span>
   
-    <span class="next ">Next</span>
+    <a href="/flash/page2/" class="next">Next</a>
   
 </div>
+        </div>
+    </div>
+
+    <footer>
+    <div id="footer-div">
+        <p><i>Stinger Stories</i> is always looking for submissions from new and established writers. Check out our <a href="submit.html">SUBMIT</a> page for rules about how to send your prose or poetry.</p>
+    </div>
+</footer>
+</body>
