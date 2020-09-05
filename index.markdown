@@ -1,8 +1,0 @@
----
-layout: home
-name: index
-paginate:
-  category: blog
----
-
-<i>Stinger Stories</i> is a digital literary magazine dedicated to short works fantastic and unusual fiction.

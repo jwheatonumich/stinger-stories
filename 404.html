@@ -1,9 +1,224 @@
----
-permalink: /404.html
-layout: home
----
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
 
-<style type="text/css" media="screen">
+    a{
+        color:rgb(244, 148, 28);
+    }
+
+    a:visited{
+        color:rgb(244, 148, 28);
+    }
+
+    #body-div{
+        display:flex;
+        flex-direction:column;
+        align-items: center;
+        padding-top:15vh;
+        padding-bottom:15vh;
+    }
+
+    footer{
+        background:rgb(44, 44, 44);
+        color:rgb(172, 172, 172);
+        min-height: 15vh;
+        
+    }
+
+    #footer-div{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        width:400px;
+        font-size: 18px;
+    }
+
+    #header {
+        background:rgb(44, 44, 44);
+    }
+
+    .nav-link {
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .nav-link:link, .nav-link:visited 
+    {
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        color:rgb(172, 172, 172);
+    }
+
+    .nav-link:hover, .nav-link:active 
+    {
+        color:rgb(244, 148, 28);
+    }
+
+    #logo{
+        width:100px;
+        height:100px;
+        padding:10px;
+        display:inline-block;
+    }
+
+    #logo-text {
+        height: 150px;
+        padding:10px;
+        display:inline-block;
+    }
+
+    #nav-bar{
+        display:flex;
+        width:100%;
+        justify-content: center;
+    }
+
+    nav ul {
+        list-style-type:none; /*Remove bullets from the nav list*/
+    }
+
+    /*display navigation list items in one line rather than on separate lines*/
+    nav li {
+        display: inline;
+        margin-right: 60px;
+        padding: 10px 5px 10px 5px;
+    }
+
+    .post-link{
+        float:right;
+    }
+
+    /*Overwrites some code that Jekyll inserts that makes lists padded on the left.*/
+    ul {
+    padding-inline-start: 0;
+    }
+
+    @media (max-width: 850px){
+        #nav-bar{
+            display:flex;
+            width:auto;
+            flex-direction:column;
+            height: auto;
+            justify-content:space-around;
+        }
+
+        nav li {
+            margin-right: 0;
+            padding: 0 0 0 0;
+        }
+
+        #footer-div{
+            padding-top: 5px;
+            padding-bottom: 5px;
+            padding-left: 5px;
+            padding-left: 5px;
+            width:auto;
+            font-size: 18px;
+        }
+
+        li a{
+            padding: 0;
+            width:100%
+        }
+
+        body{
+            width: 100%;
+            height: 100%;
+            margin: 0px;
+            padding: 0px;
+            overflow-x: hidden;
+        }
+
+        #logo{
+            width:100px;
+            height:100px;
+            padding:10px;
+            display:inline-block;
+        }
+
+        #logo-text {
+            height: 150px;
+            padding:10px;
+            display:inline-block;
+        }
+
+        #body-div{
+        padding-left:5px;
+        padding-right:5px;
+    }
+    }
+
+</style>
+
+<style>
+
+#body-text-div {
+    text-align:center;
+    max-width: 450px;
+}
+
+#logo{
+        width:150px;
+        height:150px;
+    }
+
+#logo-div{
+    display:flex;
+    align-content:center;
+    justify-content:center;
+}
+
+@media (max-width: 850px){
+    #logo{
+        width:100px;
+        height:100px;
+    }
+
+    #logo-text{
+        width:auto;
+        height:100px;
+    }
+}
+</style>
+
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-175836006-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-175836006-1');
+</script>
+
+<meta name="Description" content="Stinger Stories is a digital literary magazine dedicated to flash fiction in the fantasy and scifi genres.">
+
+</head>
+
+<body>
+
+    <header id="header">
+    <nav id="nav-bar">
+        <ul>
+            <li><a class="nav-link" href="https://stingerstories.com/index.html" class=header-links>HOME</a></li>
+            <li><a class="nav-link" href="https://stingerstories.com/about.html" class=header-links>ABOUT</a></li>
+            <li><a class="nav-link" href="https://stingerstories.com/flash/index.html" class=header-links>FLASH FICTION</a></li>
+            <li><a class="nav-link" href="https://stingerstories.com/submit.html" class=header-links>SUBMIT</a></li>
+        </ul>
+    </nav>
+</header>
+
+    <title>Stinger Stories</title> <!--Controls what shows up in the webpage tab. site.title is in the config file-->
+    <div id="body-div">
+        <div id="logo-div">
+            <img id="logo" src="assets/images/Logo.png" alt="Stinger Stories Logo">
+            <img id="logo-text" src="assets/images/Logo-text.png" alt="Stinger Stories Text">
+        </div>
+
+        <div id="body-text-div">
+            <p id="description"> <style type="text/css" media="screen">
   .container {
     margin: 10px auto;
     max-width: 600px;
@@ -23,3 +238,14 @@ layout: home
   <p><strong>Page not found :(</strong></p>
   <p>The requested page could not be found.</p>
 </div>
+</p>
+        </div>
+    </div>
+
+    <footer>
+    <div id="footer-div">
+        <p><i>Stinger Stories</i> is always looking for submissions from new and established writers. Check out our <a href="submit.html">SUBMIT</a> page for rules about how to send your prose or poetry.</p>
+    </div>
+</footer>
+
+</body>
