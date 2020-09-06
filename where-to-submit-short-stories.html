@@ -152,14 +152,6 @@
 </style>
 
 <style>
-
-.post-title, .post-title:visited{
-        font-size: 20px;
-        font-weight: bold;
-        color:black;
-        text-decoration: none;
-    }
-
 #body-div{
     padding-top:0;
 }
@@ -167,51 +159,19 @@
 #body-text-div {
     text-align:center;
     max-width: 700px;
+    border: 1px solid black;
     text-align: left;
     padding: 20px;
 }
 
 #logo-div {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    text-align:center;
 }
 
-.story-summary{
-    padding: 20px;
-    margin: 20px;
-    border: 1px solid black;
-}
-
-h2{
-    font-size: 45;
+span{
+    font-size: 90;
     font-weight: bold;
 }
-
-@media (max-width: 850px){
-
-.story-summary{
-    padding: 5px;
-    margin: 5px;
-}
-
-h2{
-    font-size: 28;
-}
-
-#body-text-div {
-    max-width: auto;
-    padding: 5px, 5px, 5px, 5px ;
-}
-
-.story-summary{
-    padding: 5px, 5px, 5px, 5px ;
-    margin: 5px, 5px, 5px, 5px ;
-    border: 1px solid black;
-}
-
-}
-
 </style>
 
 <head>
@@ -241,51 +201,29 @@ h2{
     </nav>
 </header>
 
-    <title>Stinger Stories</title> <!--Controls what shows up in the webpage tab. site.title is in the config file-->
+    <title>Where to Submit Short Stories</title> <!--Controls what shows up in the webpage tab. site.title is in the config file-->
 
     <div id="body-div">
         <div id="logo-div">
-            <h2> STINGER BLOG </h2>
-            <img id="logo" src="https://stingerstories.com/assets/images/Logo.png" alt="Stinger Stories Logo">
+            <h1>Where to Submit Short Stories</h1>
+            
+            
         </div>
 
         <div id="body-text-div">
-        <ul>
-    
-      <div class="story-summary">
-        <a class = "post-title" href="/where-to-submit-short-stories">Where to Submit Short Stories</a>
-        <p><i>By Stinger Stories Team</i></p>
-        <p>You’ve put in the time to write, edit, re-edit your masterpiece. In the process you have consumed more coffee than you care to admit. Now the hard part - finding the perfect publication to submit your short story.</p>
 
+            <p id="description"> <p>You’ve put in the time to write, edit, re-edit your masterpiece. In the process you have consumed more coffee than you care to admit. Now the hard part - finding the perfect publication to submit your short story.<!--more--> Fortunately, we have put together a list of our favorite online magazines and databases to help you find the perfect home for your brainchild.</p>
 
-        <a class = "post-link" href="/where-to-submit-short-stories">Read more...</a>
-        <br>
-      </div>
-    
-      <div class="story-summary">
-        <a class = "post-title" href="/does-the-world-need-another-literary-magazine">Does the World Need Another Literary Magazine?</a>
-        <p><i>By Stinger Stories Team</i></p>
-        <p>Earlier this year we launched a literary magazine named Stinger Stories. Friends, family, and strangers alike asked — Why?</p>
-
-
-        <a class = "post-link" href="/does-the-world-need-another-literary-magazine">Read more...</a>
-        <br>
-      </div>
-    
+<p><b>List of our favorite publications</b></p>
+<ul>
+    <li><a href="https://runebear.com">Rune Bear</a> accepts science fiction and fantasy stories with 300 or fewer words. They publish one story each week. Be sure to check out their monthly "drabble" contest to submit your story of exactly 100 words matching the chosen theme.</li>
 </ul>
 
-<!-- Pagination links -->
-<div class="pagination">
-  
-    <span class="previous">Previous</span>
-  
-  <span class="page_number ">
-    1 of 1
-  </span>
-  
-    <span class="next ">Next</span>
-  
-</div>
+<p><b>Databases of publications</b></p>
+<ul>
+    <li><a href="https://thegrinder.diabolicalplots.com/">The Submission Grinder</a> is a completely free-to-use database of thousands of online publications (both paid and unpaid). The search feature does a great job of narrowing down your target magazines based on genre and wordcound, and you can even track your stories statuses through the submission process if you create an account (again, free!)</li>
+</ul>
+</p>
         </div>
     </div>
 
@@ -294,4 +232,5 @@ h2{
         <p><i>Stinger Stories</i> is always looking for submissions from new and established writers. Check out our <a href="submit.html">SUBMIT</a> page for rules about how to send your prose or poetry.</p>
     </div>
 </footer>
+
 </body>
