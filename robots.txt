@@ -1,1 +1,1 @@
-Sitemap: stingerstories.com/sitemap.xml
+Sitemap: http://stingerstories.com/sitemap.xml
