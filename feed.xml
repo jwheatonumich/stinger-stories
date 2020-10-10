@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://stingerstories.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://stingerstories.com/" rel="alternate" type="text/html" /><updated>2020-10-03T05:30:05-05:00</updated><id>http://stingerstories.com/feed.xml</id><title type="html">Stinger Stories</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Listen</title><link href="http://stingerstories.com/Listen" rel="alternate" type="text/html" title="Listen" /><published>2020-09-19T01:01:01-05:00</published><updated>2020-09-19T01:01:01-05:00</updated><id>http://stingerstories.com/Listen</id><content type="html" xml:base="http://stingerstories.com/Listen">&lt;p&gt;Do you hear the crying?&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://stingerstories.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://stingerstories.com/" rel="alternate" type="text/html" /><updated>2020-10-10T07:51:03-05:00</updated><id>http://stingerstories.com/feed.xml</id><title type="html">Stinger Stories</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Broken Things</title><link href="http://stingerstories.com/Broken-Things" rel="alternate" type="text/html" title="Broken Things" /><published>2020-10-10T01:01:01-05:00</published><updated>2020-10-10T01:01:01-05:00</updated><id>http://stingerstories.com/Broken-Things</id><content type="html" xml:base="http://stingerstories.com/Broken-Things">&lt;p&gt;“The moon’s beautiful, Alice.”&lt;/p&gt;
+
+&lt;p&gt;I’ve named her after my daughter, dead by now, I hope.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;“A comet!”&lt;/p&gt;
+
+&lt;p&gt;A missile flares through the dust and smoke.&lt;/p&gt;
+
+&lt;p&gt;“And listen: a party down the hall.”&lt;/p&gt;
+
+&lt;p&gt;Their howling is growing closer.&lt;/p&gt;
+
+&lt;p&gt;“You look lovely today, honey.”&lt;/p&gt;
+
+&lt;p&gt;The girl is so withered it looks as though the life-support machines are feeding on her.&lt;/p&gt;
+
+&lt;p&gt;I take her little hand, and for once I don’t lie.&lt;/p&gt;
+
+&lt;p&gt;“I’ll be right here, Alice.”&lt;/p&gt;</content><author><name>Joshua Jones</name></author><category term="story" /><summary type="html">“The moon’s beautiful, Alice.” I’ve named her after my daughter, dead by now, I hope.</summary></entry><entry><title type="html">Listen</title><link href="http://stingerstories.com/Listen" rel="alternate" type="text/html" title="Listen" /><published>2020-09-19T01:01:01-05:00</published><updated>2020-09-19T01:01:01-05:00</updated><id>http://stingerstories.com/Listen</id><content type="html" xml:base="http://stingerstories.com/Listen">&lt;p&gt;Do you hear the crying?&lt;/p&gt;
 
 &lt;p&gt;      In the streets weeping comes from&lt;/p&gt;
 
@@ -173,10 +192,4 @@ Terrestrial CFO, International Space Station
 
 &lt;p&gt;two-by-two&lt;/p&gt;
 
-&lt;p&gt;into the Ark&lt;/p&gt;</content><author><name>Raymond Zhuo</name></author><category term="post" /><summary type="html">Clouds rolled in Rex sat at the base of the boat sulking</summary></entry><entry><title type="html">Beyond Neptune</title><link href="http://stingerstories.com/beyond-neptune" rel="alternate" type="text/html" title="Beyond Neptune" /><published>2020-08-15T01:06:54-05:00</published><updated>2020-08-15T01:06:54-05:00</updated><id>http://stingerstories.com/beyond-neptune</id><content type="html" xml:base="http://stingerstories.com/beyond-neptune">&lt;p&gt;ATTENTION EARTH VESSEL&lt;/p&gt;
-
-&lt;p&gt;Note that you have exited your star’s allocated flight zone. This notification serves as your species’ first and only warning.&lt;!--more--&gt; Please return to within 30 astronomical units of your home star.&lt;/p&gt;
-
-&lt;p&gt;Per intergalactic law 53.1.2.c, your system has been designated as a primitive species reserve. This designation outlaws any interaction between residents and the greater intergalactic community.&lt;/p&gt;
-
-&lt;p&gt;Further violations may result in penalties including: (A) removal of up to 20% of your system’s radioactive isotopes or (B) reduction in your star’s brightness of up to 5%, depending on your primary form of power generation.&lt;/p&gt;</content><author><name>Raymond Zhuo</name></author><category term="post" /><summary type="html">ATTENTION EARTH VESSEL Note that you have exited your star’s allocated flight zone. This notification serves as your species’ first and only warning.</summary></entry></feed>
+&lt;p&gt;into the Ark&lt;/p&gt;</content><author><name>Raymond Zhuo</name></author><category term="post" /><summary type="html">Clouds rolled in Rex sat at the base of the boat sulking</summary></entry></feed>
